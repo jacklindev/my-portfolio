@@ -88,7 +88,6 @@ yarn start
 │   ├── _redirects
 │   ├── favicon.ico
 │   ├── favicon.png
-│   ├── favicon512.png
 │   ├── index.html
 │   ├── manifest.json
 │   └── robots.txt
