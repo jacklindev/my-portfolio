@@ -1,7 +1,6 @@
 export const contactsData = {
     email: 'jackliuprodev@gmail.com',
-    phone: '+8801608797655',
-    address: 'Middle Badda, Dhaka, Bangladesh - 1212 ',
-
+    phone: '+1 (267)-845-7725',
+    address: 'North Carolina, US',
     sheetAPI: ''
 }
