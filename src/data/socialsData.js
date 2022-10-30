@@ -1,9 +1,9 @@
 export const socialsData = {
     github: 'https://github.com/jackliudev',
-    facebook: 'https://www.facebook.com/jackliudev/',
+    facebook: '',
     linkedIn: 'https://www.linkedin.com/in/jack-lin-3295a11b1/',
-    twitter: 'https://twitter.com/jackliudev',
-    medium: 'https://medium.com/@jackliudev',
+    twitter: '',
+    medium: '',
     stackOverflow: 'https://stackoverflow.com/users/17545510/jack-liu',
     mail: 'jackliuprodev@gmail.com',
 }
