@@ -28,6 +28,15 @@ export const projectsData = [
     image: sports,
   },
   {
+    id: 6,
+    projectName: "Pulley",
+    projectDesc: "The top-rated cap table solutions",
+    tags: ["React", "Redux", "React-query", "Ant Design"],
+    code: "",
+    demo: "https://pulley.com/",
+    image: pully,
+  },
+  {
     id: 4,
     projectName: "ernJARVIS",
     projectDesc: "Bitcoin & Crypto TAMP and SMA network",
@@ -45,15 +54,6 @@ export const projectsData = [
     code: "",
     demo: "https://www.aerotime.com/",
     image: aerotime,
-  },
-  {
-    id: 6,
-    projectName: "Pulley",
-    projectDesc: "The top-rated cap table solutions",
-    tags: ["React", "Redux", "React-query", "Ant Design"],
-    code: "",
-    demo: "https://pulley.com/",
-    image: pully,
   },
   {
     id: 7,
