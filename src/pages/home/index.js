@@ -1,7 +1,7 @@
 import React from 'react'
 import { Helmet } from 'react-helmet'
 
-import { About, Blog, Contacts, Education, Experience, Landing, Navbar, Projects, Skills } from '../../components'
+import { About, Contacts, Education, Experience, Landing, Navbar, Projects, Skills } from '../../components'
 import { headerData } from '../../data/headerData'
 
 function HomePage() {
@@ -18,7 +18,7 @@ function HomePage() {
             <Skills />
             <Experience />
             <Projects />
-            <Blog />
+            {/* <Blog /> */}
             <Contacts />
         </div>
     )
