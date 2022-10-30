@@ -190,7 +190,7 @@ yarn start
 
 # Usage :joystick:
 
-### Customize your details for each component in `src/data` [folder](https://github.com/jackliudev/developer-portfolio/tree/master/src/data).
+### Customize your details for each component in `src/data` [folder](https://github.com/jacklindev/developer-portfolio/tree/master/src/data).
 
 Eg:
 
@@ -221,23 +221,23 @@ export const headerData = {
 
 #### Data for each component is divided into respective files.
 
-> #### Choose your favourite font from [`src/App.css`](https://github.com/jackliudev/developer-portfolio/blob/main/src/App.css)
+> #### Choose your favourite font from [`src/App.css`](https://github.com/jacklindev/developer-portfolio/blob/main/src/App.css)
 
-> #### About You - [`src/data/aboutData.js`](https://github.com/jackliudev/developer-portfolio/blob/main/src/data/aboutData.js)
+> #### About You - [`src/data/aboutData.js`](https://github.com/jacklindev/developer-portfolio/blob/main/src/data/aboutData.js)
 
-> #### Education details - [`src/data/educationData.js`](https://github.com/jackliudev/developer-portfolio/blob/main/src/data/educationData.js)
+> #### Education details - [`src/data/educationData.js`](https://github.com/jacklindev/developer-portfolio/blob/main/src/data/educationData.js)
 
-> #### Enter your Projects - [`src/data/projectsData.js`](https://github.com/jackliudev/developer-portfolio/blob/main/src/data/projectsData.js)
+> #### Enter your Projects - [`src/data/projectsData.js`](https://github.com/jacklindev/developer-portfolio/blob/main/src/data/projectsData.js)
 
-> #### Add your Skills - [`src/data/skillsData.js`](https://github.com/jackliudev/developer-portfolio/blob/main/src/data/skillsData.js)
+> #### Add your Skills - [`src/data/skillsData.js`](https://github.com/jacklindev/developer-portfolio/blob/main/src/data/skillsData.js)
 
-> #### Experience - [`src/data/experienceData.js`](https://github.com/jackliudev/developer-portfolio/blob/main/src/data/experienceData.js)
+> #### Experience - [`src/data/experienceData.js`](https://github.com/jacklindev/developer-portfolio/blob/main/src/data/experienceData.js)
 
-> #### Your Blogs and Articles - [`src/data/blogData.js`](https://github.com/jackliudev/developer-portfolio/blob/main/src/data/blogData.js)
+> #### Your Blogs and Articles - [`src/data/blogData.js`](https://github.com/jacklindev/developer-portfolio/blob/main/src/data/blogData.js)
 
-> #### Contact Details - [`src/data/contactsData.js`](https://github.com/jackliudev/developer-portfolio/blob/main/src/data/contactsData.js)
+> #### Contact Details - [`src/data/contactsData.js`](https://github.com/jacklindev/developer-portfolio/blob/main/src/data/contactsData.js)
 
-> #### Social Media Profiles - [`src/data/contactsData.js`](https://github.com/jackliudev/developer-portfolio/blob/main/src/data/socialsData.js)
+> #### Social Media Profiles - [`src/data/contactsData.js`](https://github.com/jacklindev/developer-portfolio/blob/main/src/data/socialsData.js)
 
 ```javascript
 // EXAMPLE
