@@ -4,7 +4,8 @@ import CloseIcon from '@material-ui/icons/Close';
 import React, { useContext, useState } from 'react';
 import { BsFillMoonFill, BsFillSunFill } from 'react-icons/bs';
 import { FaUser } from 'react-icons/fa';
-import { HiDocumentText } from 'react-icons/hi';
+import { DiReact } from 'react-icons/di';
+
 import { IoHomeSharp, IoMenuSharp } from 'react-icons/io5';
 import { MdPhone } from 'react-icons/md';
 import Fade from 'react-reveal/Fade';
@@ -213,17 +214,17 @@ function Navbar() {
 
                         <Fade left>
                             <NavLink
-                                to='/#resume'
+                                to='/#skills'
                                 smooth={true}
                                 spy='true'
                                 duration={2000}
                             >
                                 <div className={classes.drawerItem}>
-                                    <HiDocumentText
+                                    <DiReact
                                         className={classes.drawerIcon}
                                     />
                                     <span className={classes.drawerLinks}>
-                                        Resume
+                                        Skills
                                     </span>
                                 </div>
                             </NavLink>
@@ -272,7 +273,7 @@ function Navbar() {
                                 <div className={classes.drawerItem}>
                                     <MdPhone className={classes.drawerIcon} />
                                     <span className={classes.drawerLinks}>
-                                        Contact
+                                        Contacts
                                     </span>
                                 </div>
                             </NavLink>
