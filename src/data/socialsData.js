@@ -4,6 +4,6 @@ export const socialsData = {
     linkedIn: 'https://www.linkedin.com/in/jack-lin-3295a11b1/',
     twitter: '',
     medium: '',
-    stackOverflow: 'https://stackoverflow.com/users/17545510/jack-liu',
+    stackOverflow: '',
     mail: 'jackliuprodev@gmail.com',
 }
