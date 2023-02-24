@@ -44,7 +44,7 @@ export const experienceData = [
         company: 'Bronron Apps',
         jobtitle: 'Software Developer',
         startYear: 'May 2012',
-        endYear: 'Oct 2013',
+        endYear: 'Feb 2014',
         skills: 'HTML, CSS, jQuery, JavaScript, Wordpress, PHP, Laravel'
     },
 ]
