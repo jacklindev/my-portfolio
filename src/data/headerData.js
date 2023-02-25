@@ -4,5 +4,5 @@ export const headerData = {
     title: "Hello! I am",
     desciption: "Hello! I am Jack Lin, a professional and passionate programmer in my daily life. A quick learner with a self-learning attitude. I love to learn and explore new technologies and am Passionate about Problem Solving. ",
     image: '/me.JPG',
-    resumePdf: 'https://drive.google.com/file/d/1UwSs_3pXP7xHG0ZsNeYfuh3EZtcIFvaU/view'
+    resumePdf: 'https://drive.google.com/file/d/1FJpyNKaYHJV57uN6YLhSqskW3x0GT5vS/view'
 }
