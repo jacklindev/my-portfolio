@@ -21,10 +21,11 @@
   text-align: center;
 }
 
-.testimonials-container {
+.testimonials-body {
   display: flex;
   align-items: center;
   justify-content: center;
+  flex-wrap: wrap;
   width: 100%;
   margin-top: 3.5rem;
   padding: 0 2rem;
@@ -34,7 +35,7 @@
   .testimonials {
     padding: 2rem 1rem 1rem 1rem;
   }
-  .testimonials-container {
+  .testimonials-body {
     padding: 1.5rem;
     margin-top: 1.5rem;
   }
@@ -45,7 +46,7 @@
     padding: 1rem;
     min-height: 100%;
   }
-  .testimonials-container {
+  .testimonials-body {
     padding: 1rem;
     margin: 1rem 0;
   }
@@ -58,7 +59,7 @@
   .testimonials {
     padding: 0.5rem;
   }
-  .testimonials-container {
+  .testimonials-body {
     padding: 0.5rem;
   }
   .testimonials-header h2 {
