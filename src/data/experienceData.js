@@ -1,18 +1,10 @@
 export const experienceData = [
     {
-        id: 0,
-        company: 'Self-Employed',
-        jobtitle: 'Senior Software Engineer',
-        startYear: 'Dec 2022',
-        endYear: 'Present',
-        skills: 'React, TypeScript, AVA, XState, GraphQL, React-Flow, GTmetrics'
-    },
-    {
         id: 1,
         company: 'Mighty Networks',
         jobtitle: 'Front End Developer',
         startYear: 'Jun 2020',
-        endYear: 'Nov 2022',
+        endYear: 'Feb 2023',
         skills: 'React, React Native, TypeScript, TailwindCSS, Jest, AWS'
     },
     {
