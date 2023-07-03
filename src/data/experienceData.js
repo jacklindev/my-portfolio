@@ -4,7 +4,7 @@ export const experienceData = [
         company: 'Mighty Networks',
         jobtitle: 'Front End Developer',
         startYear: 'Jun 2020',
-        endYear: 'Feb 2023',
+        endYear: 'May 2023',
         skills: 'React, React Native, TypeScript, TailwindCSS, Jest, AWS'
     },
     {
