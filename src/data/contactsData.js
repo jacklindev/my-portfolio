@@ -1,6 +1,6 @@
 export const contactsData = {
-    email: 'jackliuprodev@gmail.com',
-    phone: '(267) 845-7725',
-    address: 'Los Angeles, CA 90004',
+    email: 'balleninapp@proton.me',
+    phone: '(707) 356-8505',
+    address: 'Chicago, IL 60607',
     sheetAPI: ''
 }

@@ -81,6 +81,7 @@ import reduxImg from '../assets/svg/skills/redux.svg';
 import mobx from '../assets/svg/skills/mobx.png';
 import xstate from '../assets/svg/skills/xstate.png';
 import remix from '../assets/svg/skills/remix2.png';
+import springBoot from '../assets/svg/skills/springboot.png';
 
 
 export const skillsImage = (skill) => {
@@ -246,6 +247,8 @@ export const skillsImage = (skill) => {
             return remix;
         case 'litelement':
             return litelement;
+        case 'spring boot':
+            return springBoot;
         default:
             break;
     }

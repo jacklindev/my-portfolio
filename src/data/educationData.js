@@ -1,9 +1,9 @@
 export const educationData = [
     {
         id: 1,
-        institution: 'The University of Hong Kong',
-        course: 'Bachelor of Science - BS, Computer Engineering',
-        startYear: '2007',
-        endYear: '2011'
+        institution: 'North Carolina State University',
+        course: 'Bachelor of Design',
+        startYear: '2010',
+        endYear: '2015'
     },
 ]
