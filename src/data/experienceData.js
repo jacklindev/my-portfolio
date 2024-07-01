@@ -1,42 +1,51 @@
 export const experienceData = [
-    {
-        id: 1,
-        company: 'Mighty Networks',
-        jobtitle: 'Front End Developer',
-        startYear: 'Jun 2020',
-        endYear: 'May 2023',
-        skills: 'React, React Native, TypeScript, TailwindCSS, Jest, AWS'
-    },
-    {
-        id: 2,
-        company: 'Lift & Co. Expo',
-        jobtitle: 'Full-Stack Developer',
-        startYear: 'Jan 2018',
-        endYear: 'May 2020',
-        skills: 'React, Redux, Jest, Contentful, TypeScript, Mailchimp'
-    },
-    {
-        id: 3,
-        company: 'Collins Harper',
-        jobtitle: 'Full Stack Developer',
-        startYear: 'Dec 2015',
-        endYear: 'Dec 2017',
-        skills: 'React, React Native, Redux, Node.js, Express.js, AWS'
-    },
-    {
-        id: 4,
-        company: 'Concept Coders',
-        jobtitle: 'Software Engineer',
-        startYear: 'Mar 2014',
-        endYear: 'Nov 2015 ',
-        skills: 'HTML, CSS, jQuery, JavaScript, AngularJS, Wordpress, PHP, Laravel'
-    },
-    {
-        id: 5,
-        company: 'Bronron Apps',
-        jobtitle: 'Software Developer',
-        startYear: 'May 2012',
-        endYear: 'Feb 2014',
-        skills: 'HTML, CSS, jQuery, JavaScript, Wordpress, PHP, Laravel'
-    },
-]
+  {
+    id: 1,
+    company: "Toptal",
+    jobtitle: "Full Stack Developer",
+    startYear: "Nov 2023",
+    endYear: "~",
+    skills: "React, Next.js, D3.js, Remix, Java, Spring Boot, GraphQL, Next.js",
+  },
+  {
+    id: 2,
+    company: "Vexo",
+    jobtitle: "Senior React Front End Developer",
+    startYear: "Apr 2022",
+    endYear: "Oct 2023",
+    skills: "React, React Native, D3.js, MobX, GraphQL, Nest.js, TypeScript",
+  },
+  {
+    id: 3,
+    company: "BotstacksAI",
+    jobtitle: "Full Stack Developer",
+    startYear: "Mar 2020",
+    endYear: "Jul 2022",
+    skills: "React, TypeScript, Node.js, Nest.js, Mobx, React-Flow, AWS",
+  },
+  {
+    id: 4,
+    company: "WillowTree",
+    jobtitle: "Front End Developer",
+    startYear: "Nov 2017",
+    endYear: "Feb 2020 ",
+    skills:
+      "TypeScript, Next.js, Jest, React Testing, Cypress, React, SDLC, Storybook, Enzyme",
+  },
+  {
+    id: 5,
+    company: "iHeartRadio",
+    jobtitle: "Software Engineer",
+    startYear: "Apr 2016",
+    endYear: "Oct 2017",
+    skills: "React, Redux, FlowType.js, Backbone.js, Jenkins, Stripes",
+  },
+  {
+    id: 6,
+    company: "Visagio Technology",
+    jobtitle: "Software Engineer Intern",
+    startYear: "Jan 2015",
+    endYear: "Mar 2016",
+    skills: "HTML, CSS, Javascript, MySQL, PHP, GitHub, Linux",
+  },
+];

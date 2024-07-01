@@ -1,13 +1,33 @@
-import mighty from "../assets/png/projects/mighty.png";
-import ernjarvis from "../assets/png/projects/ernjarvis.svg";
-import sports from "../assets/png/projects/sports.gif";
+import mighty from "../assets/png/projects/mighty.jpg";
+// import ernjarvis from "../assets/png/projects/ernjarvis.svg";
+// import sports from "../assets/png/projects/sports.gif";
 import aerotime from "../assets/png/projects/aerotime.jpg";
 import pully from "../assets/png/projects/pully.svg";
 import varagon from "../assets/png/projects/varagon.jpg"
 import industrie from "../assets/png/projects/industrie.svg";
 import liftco from "../assets/png/projects/liftco.png";
+import vexo from "../assets/png/projects/vexo.webp";
+import botstacks from "../assets/png/projects/botstacks.jpg";
 
 export const projectsData = [
+  {
+    id: 0,
+    projectName: "Vexo",
+    projectDesc: "React Native Analytics",
+    tags: ["React", "React Native", "TypeScript", "D3.js"],
+    code: "",
+    demo: "https://www.vexo.co/",
+    image: vexo,
+  },
+  {
+    id: 9,
+    projectName: "BotstacksAI",
+    projectDesc: "Conversational AI Solutions.",
+    tags: ["React", "Nest.js", "TypeScript", "Mobx", "React-Flow"],
+    code: "",
+    demo: "https://botstacks.ai/",
+    image: botstacks,
+  },
   {
     id: 1,
     projectName: "Mighty networks",
@@ -18,15 +38,15 @@ export const projectsData = [
     image: mighty,
   },
 
-  {
-    id: 3,
-    projectName: "Sports betters",
-    projectDesc: "Automated Bet Management",
-    tags: ["Vue", "Vuex", "TypeScript"],
-    code: "",
-    demo: "https://www.torneo.ca/",
-    image: sports,
-  },
+  // {
+  //   id: 3,
+  //   projectName: "Sports betters",
+  //   projectDesc: "Automated Bet Management",
+  //   tags: ["Vue", "Vuex", "TypeScript"],
+  //   code: "",
+  //   demo: "https://www.torneo.ca/",
+  //   image: sports,
+  // },
   {
     id: 6,
     projectName: "Pulley",
@@ -35,15 +55,6 @@ export const projectsData = [
     code: "",
     demo: "https://pulley.com/",
     image: pully,
-  },
-  {
-    id: 4,
-    projectName: "ernJARVIS",
-    projectDesc: "Bitcoin & Crypto TAMP and SMA network",
-    tags: ["React", "Charts.js", "Web3.js"],
-    code: "",
-    demo: "https://earnjarvis.com/",
-    image: ernjarvis,
   },
   {
     id: 5,

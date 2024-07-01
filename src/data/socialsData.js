@@ -1,9 +1,9 @@
 export const socialsData = {
-    github: 'https://github.com/jacklindev',
+    github: '',
     facebook: '',
-    linkedIn: 'https://www.linkedin.com/in/jack-a-3295a11b1/',
+    linkedIn: '',
     twitter: '',
     medium: '',
     stackOverflow: '',
-    mail: 'jackliuprodev@gmail.com',
+    mail: 'balleninapp@proton.me',
 }
