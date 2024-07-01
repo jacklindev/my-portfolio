@@ -158,3 +158,8 @@
 
 @media only screen and (device-width: 768px) {
 }
+
+.skills-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(208px, 1fr));
+}
